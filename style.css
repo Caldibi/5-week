@@ -1,0 +1,19 @@
+.first {
+
+    height: 5rem;
+    background-image: linear-gradient(rgb(255, 255, 255), #5b5485 );
+  
+}
+
+.middle {
+
+    background-color: rgba(82, 177, 137, 0.438);
+    height: 55rem;
+    border-radius: 3%;
+}
+
+.btn{
+height: 4rem;
+width: 15rem;
+text-align: center;
+}
